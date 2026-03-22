@@ -83,8 +83,169 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WOHCMMQK
 
+[Document3]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Low noise PSU\Design Rule Check - Low noise PSU.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Manufacturing\NC Drill\Low noise PSU-NonPlated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Free Documents\NC Drill\Low noise PSU-NonPlated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Low noise PSU\NC Drill\Low noise PSU-NonPlated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Manufacturing\NC Drill\Low noise PSU-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Free Documents\NC Drill\Low noise PSU-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Low noise PSU\NC Drill\Low noise PSU-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Manufacturing\NC Drill\Low noise PSU.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Free Documents\NC Drill\Low noise PSU.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Low noise PSU\NC Drill\Low noise PSU.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Manufacturing\Gerber\Low noise PSU.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Low noise PSU\Gerber\Low noise PSU.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Manufacturing\Gerber\Low noise PSU.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Low noise PSU\Gerber\Low noise PSU.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Manufacturing\Gerber\Low noise PSU.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Low noise PSU\Gerber\Low noise PSU.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Manufacturing\Gerber\Low noise PSU.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Low noise PSU\Gerber\Low noise PSU.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Manufacturing\Gerber\Low noise PSU.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Low noise PSU\Gerber\Low noise PSU.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Manufacturing\Gerber\Low noise PSU.GM
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Low noise PSU\Gerber\Low noise PSU.GM
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Manufacturing\Gerber\Low noise PSU.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Low noise PSU\Gerber\Low noise PSU.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Manufacturing\Gerber\Low noise PSU.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Low noise PSU\Gerber\Low noise PSU.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Manufacturing\Gerber\Low noise PSU.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for Low noise PSU\Gerber\Low noise PSU.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Manufacturing\Gerber\Low noise PSU.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Low noise PSU\Gerber\Low noise PSU.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Manufacturing\NC Drill\Low noise PSU.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for Free Documents\NC Drill\Low noise PSU.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for Low noise PSU\NC Drill\Low noise PSU.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Manufacturing\Gerber\Low noise PSU.REP
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for Low noise PSU\Gerber\Low noise PSU.REP
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Documentation\Low noise PSU.step
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=..\..\..\..\Guitar Pedals\LAMP\hardware\LAMP\Documentation\Low noise PSU.step
 DItemRevisionGUID=
 
 [Parameter1]
