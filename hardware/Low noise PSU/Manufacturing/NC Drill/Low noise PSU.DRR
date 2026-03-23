@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Low noise PSU.PcbDoc   2026-03-22  01:33:34
+NCDrill File Report For: Low noise PSU.PcbDoc   2026-03-23  02:23:46
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,7 +8,7 @@ ASCII Non-Plated RoundHoles File : Low noise PSU-NonPlated.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      32mil (0.8mm)                                             Round             8         PTH        3.30inch (83.75mm)
+T1      32mil (0.8mm)                                             Round             8         PTH        2.37inch (60.23mm)
 T2      39mil (1mm)                                               Round             6         PTH        0.50inch (12.70mm)
 T3      63mil (1.6mm)                                             Round             6         PTH        0.93inch (23.63mm)
 T4      76mil (1.94mm)                                            Round             6         PTH        2.81inch (71.30mm)
